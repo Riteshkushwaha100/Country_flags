@@ -1,4 +1,4 @@
-import Flags from "../Components/flags"
+import Flags from "../Components/Flags"
 
 function App() {
 
